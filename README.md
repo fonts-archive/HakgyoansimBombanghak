@@ -33,7 +33,7 @@ font-face
 ```
 @font-face {
     font-family: 'Hakgyoansim Bombanghak';
-    font-weight: 300;
+    font-weight: normal;
     font-style: normal;
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimBombanghak/HakgyoansimBombanghak.woff2') format('woff2'),
